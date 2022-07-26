@@ -1,0 +1,19 @@
+{
+    "options": {
+        "ignoreBots": true,
+        "removeIfUserHasOffline": false,
+        "mustBeStrictlyTheSame": false,
+        "executeWithCommand": false
+    },
+    "data": {
+        "guild": "",
+        "roles": [{
+            "rol": "",
+            "presence": ""
+        }],
+        "logs": {
+            "enabled": true,
+            "channel": ""
+        }
+    }
+}

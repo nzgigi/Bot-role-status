@@ -1,0 +1,20 @@
+{
+  "name": "bot-role-presence",
+  "version": "1.0.0",
+  "description": "Add a role if this has an any presence",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "start:dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.0.3",
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
